@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Frank Castle</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio_text">
+        "I'm not the one that dies, kid. I'm the one that does the killing. Thing is, every time I try to be someone different, that's when the wrong people get hurt."
+―Punisher to Amy Bendix[src]
+
+Francis David \"Frank\" Castle, Sr., born Francis David \"Frank\" Castiglione, Sr., is a former Force Recon Marine-turned-vigilante. While serving in Afghanistan alongside with Billy Russo, where the duo became friends, Castle and Russo joined the black-ops team, Cerberus Squad under the command of CIA Officer William Rawlins aimed at capturing, interrogating, and executing high-value targets. Fearing he was slowly losing his honor, Castle returned to his family, only to lose them all during a brutal shooting. Castle became the Punisher, as he aimed to clean up New York City of all crime by any means necessary. While seeking to avenge his own family\'s deaths, Castle also came in conflict with Daredevil. Castle was soon arrested and, despite the efforts of Nelson and Murdock, was sentenced to life in prison. However, Castle was freed with the help of Wilson Fisk and discovered the Blacksmith was in fact the one who had been responsible for his family\'s murder, or at least one of them.
+    </string>
 </resources>
